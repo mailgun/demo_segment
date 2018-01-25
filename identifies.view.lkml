@@ -1,5 +1,5 @@
 view: identifies {
-  sql_table_name: segment.identifies ;;
+  sql_table_name: production.identifies ;;
 
   dimension: anonymous_id {
     type: string
