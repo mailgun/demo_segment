@@ -1,4 +1,4 @@
-connection: "segment_sources"
+connection: "ledger"
 
 # include all views in this project
 # - include: "*.dashboard.lookml"  # include all dashboards in this project
