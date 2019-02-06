@@ -55,3 +55,6 @@ explore: event_facts {
     relationship: many_to_one
   }
 }
+
+# - Explore for Statistical analysis of Churned accounts
+explore: churned_accounts_analysis {}
